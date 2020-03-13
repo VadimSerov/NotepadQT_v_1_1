@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>Icon/bmp/32bit/Normal/32x32-32b/Open.bmp</file>
+        <file>Icon/bmp/32bit/Normal/32x32-32b/Save as.bmp</file>
+        <file>Icon/bmp/32bit/Normal/32x32-32b/New.bmp</file>
+        <file>Icon/bmp/32bit/Normal/32x32-32b/Exit.bmp</file>
+        <file>Icon/bmp/32bit/Normal/32x32-32b/Print.bmp</file>
+        <file>Icon/bmp/32bit/Normal/32x32-32b/Copy.bmp</file>
+        <file>Icon/bmp/32bit/Normal/32x32-32b/Cut.bmp</file>
+        <file>Icon/bmp/32bit/Normal/32x32-32b/Paste.bmp</file>
+        <file>Icon/bmp/32bit/Normal/32x32-32b/Redo.bmp</file>
+        <file>Icon/bmp/32bit/Normal/32x32-32b/Undo.bmp</file>
+    </qresource>
+</RCC>
